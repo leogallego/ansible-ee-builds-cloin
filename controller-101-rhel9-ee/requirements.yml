@@ -1,0 +1,13 @@
+---
+collections:
+  - ansible.utils
+  - ansible.posix
+  - ansible.netcommon
+  - ansible.controller
+  - redhat_cop.controller_configuration
+  - redhat.rhel_system_roles
+  - fedora.linux_system_roles
+  - awx.awx
+  - community.crypto
+  - community.general
+  - containers.podman
